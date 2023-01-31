@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumitparcha
 - 👀 I’m interested in salesforce
-- 🌱 I’m currently learning salesforce
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently a Salesforce Developer
+- 💞️ I’m looking to collaborate with Salesforce development projects
 - 📫 How to reach me parchasumit5@gmail.com
 
 <!---
